@@ -3,14 +3,6 @@
 ## Overview
 This project is a simple HTTP server built with Go that provides RESTful API endpoints for uploading, listing, and streaming video files. The server uses the standard `net/http` package and stores videos in the local file system.
 
-## Project Structure
-
-├── main.go
-├── handlers/
-│ └── video.go
-└── videos/ # Directory to store uploaded videos
-
-
 ## Getting Started
 
 ### Prerequisites
